@@ -1,0 +1,8 @@
+Topology description
+--------------------
+4 IOSv routers, 2 NXOSv switches
+
+The topology consist of four IOSv routers connected in a full mesh configuration and two NXOSv switches, each  connected to two of the IOSv "upstream" routers. 
+
+There is no connection between the NXOSv switches.
+
